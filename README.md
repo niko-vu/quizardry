@@ -2,6 +2,8 @@
 
 ## Description
 
+(THIS IS A WORK-IN-PROGRESS....)
+
 A web API project containing a quiz built with HTML, CSS, and JavaScript.
 
 ...
@@ -29,7 +31,10 @@ Click [here](https://niko-vu.github.io/password-gacha/) for the deployed applica
 
 ## Credits
 
-* ...
+* [JavaScript quiz tutorial](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/#)
+* [Hiding buttons](https://linuxhint.com/hide-button-javascript/)
+* [Using textContent]([https://www.delftstack.com/howto/javascript/javascript-add-text/#add-text-to-an-existing-text-element-in-javascript-via-dom-using-textcontent](https://www.w3schools.com/jsref/prop_node_textcontent.asp))
+* 
 
 ## License
 
