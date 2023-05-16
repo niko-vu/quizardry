@@ -26,16 +26,23 @@
                 <div class ="questionStyle" id="question">...</div>
                 <div class ="description" id="endMessage">...</div>
                 <!-- Answer options -->
-                <button class="btn" id="answer1">bleh</button>
-                <button class="btn" id="answer2">...</button>
-                <button class="btn" id="answer3">...</button>
-                <button class="btn" id="answer4">...</button>
+                <button class="btn" data-correct="" id="answer1">bleh</button>
+                <button class="btn" data-correct="" id="answer2">...</button>
+                <button class="btn" data-correct="" id="answer3">...</button>
+                <button class="btn" data-correct="" id="answer4">...</button>
 
                 <button class="startBtn" id="tryAgain">Start Over</button>
 
                 <hr>
                 <div class ="resultstyle" id="result"></div>
+                <div class="saveuserscore">
+                    <form>
 
+                        <label>Enter User Iniitals</label>
+                        <input type="text" id="user-score" />
+                        <button id="save-score">Save</button>
+                    </form>
+                </div>
             </div>
         </div>
 
