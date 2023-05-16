@@ -31,6 +31,7 @@ Click [here](https://niko-vu.github.io/password-gacha/) for the deployed applica
 
 ## Credits
 
+* I was assisted by Sangeetha Kaliaperumal who was tutoring me and helping me with my JavaScript/HTML files.
 * [JavaScript quiz tutorial](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/#)
 * [Hiding buttons](https://linuxhint.com/hide-button-javascript/)
 * [Using textContent]([https://www.delftstack.com/howto/javascript/javascript-add-text/#add-text-to-an-existing-text-element-in-javascript-via-dom-using-textcontent](https://www.w3schools.com/jsref/prop_node_textcontent.asp))
